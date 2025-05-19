@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vinog\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\u041F\u041C04\\PM04\\PM04Project\\TestBasePM04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1BD168EE-A588-46C7-9107-C82E3549A16A}|..\\PM11TESTBASEUnitTest\\PM11TESTBASEUnitTest.csproj|c:\\users\\vinog\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\u043F\u043C04\\pm04\\pm04project\\pm11testbaseunittest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1809CCF6-4031-4B4E-B678-C812C57A92FC}|TestBasePM04.csproj|c:\\users\\vinog\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\u043F\u043C04\\pm04\\pm04project\\testbasepm04\\history.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1809CCF6-4031-4B4E-B678-C812C57A92FC}|TestBasePM04.csproj|solutionrelative:history.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1809CCF6-4031-4B4E-B678-C812C57A92FC}|TestBasePM04.csproj|c:\\users\\vinog\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\u043F\u043C04\\pm04\\pm04project\\testbasepm04\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1809CCF6-4031-4B4E-B678-C812C57A92FC}|TestBasePM04.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1809CCF6-4031-4B4E-B678-C812C57A92FC}|TestBasePM04.csproj|c:\\users\\vinog\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\u043F\u043C04\\pm04\\pm04project\\testbasepm04\\addpartnerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1809CCF6-4031-4B4E-B678-C812C57A92FC}|TestBasePM04.csproj|solutionrelative:addpartnerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1809CCF6-4031-4B4E-B678-C812C57A92FC}|TestBasePM04.csproj|c:\\users\\vinog\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\u043F\u043C04\\pm04\\pm04project\\testbasepm04\\editpartnerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1809CCF6-4031-4B4E-B678-C812C57A92FC}|TestBasePM04.csproj|solutionrelative:editpartnerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1809CCF6-4031-4B4E-B678-C812C57A92FC}|TestBasePM04.csproj|c:\\users\\vinog\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\u043F\u043C04\\pm04\\pm04project\\testbasepm04\\purchasehistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1809CCF6-4031-4B4E-B678-C812C57A92FC}|TestBasePM04.csproj|solutionrelative:purchasehistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1809CCF6-4031-4B4E-B678-C812C57A92FC}|TestBasePM04.csproj|c:\\users\\vinog\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\u043F\u043C04\\pm04\\pm04project\\testbasepm04\\partner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1809CCF6-4031-4B4E-B678-C812C57A92FC}|TestBasePM04.csproj|solutionrelative:partner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 327,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\vinog\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\u041F\u041C04\\PM04\\PM04Project\\PM11TESTBASEUnitTest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\PM11TESTBASEUnitTest\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\vinog\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\u041F\u041C04\\PM04\\PM04Project\\PM11TESTBASEUnitTest\\UnitTest1.cs",
+              "RelativeToolTip": "..\\PM11TESTBASEUnitTest\\UnitTest1.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAmwHkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T09:38:37.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "History.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\vinog\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\u041F\u041C04\\PM04\\PM04Project\\TestBasePM04\\History.xaml.cs",
+              "RelativeDocumentMoniker": "History.xaml.cs",
+              "ToolTip": "C:\\Users\\vinog\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\u041F\u041C04\\PM04\\PM04Project\\TestBasePM04\\History.xaml.cs",
+              "RelativeToolTip": "History.xaml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T09:27:33.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddPartnerWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\vinog\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\u041F\u041C04\\PM04\\PM04Project\\TestBasePM04\\AddPartnerWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AddPartnerWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\vinog\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\u041F\u041C04\\PM04\\PM04Project\\TestBasePM04\\AddPartnerWindow.xaml.cs",
+              "RelativeToolTip": "AddPartnerWindow.xaml.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAmwE8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T09:27:21.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\vinog\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\u041F\u041C04\\PM04\\PM04Project\\TestBasePM04\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\vinog\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\u041F\u041C04\\PM04\\PM04Project\\TestBasePM04\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAowEEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T09:25:59.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EditPartnerWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\vinog\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\u041F\u041C04\\PM04\\PM04Project\\TestBasePM04\\EditPartnerWindow.xaml.cs",
+              "RelativeDocumentMoniker": "EditPartnerWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\vinog\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\u041F\u041C04\\PM04\\PM04Project\\TestBasePM04\\EditPartnerWindow.xaml.cs",
+              "RelativeToolTip": "EditPartnerWindow.xaml.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAmwJUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T09:26:58.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PurchaseHistory.cs",
+              "DocumentMoniker": "C:\\Users\\vinog\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\u041F\u041C04\\PM04\\PM04Project\\TestBasePM04\\PurchaseHistory.cs",
+              "RelativeDocumentMoniker": "PurchaseHistory.cs",
+              "ToolTip": "C:\\Users\\vinog\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\u041F\u041C04\\PM04\\PM04Project\\TestBasePM04\\PurchaseHistory.cs",
+              "RelativeToolTip": "PurchaseHistory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T09:26:41.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Partner.cs",
+              "DocumentMoniker": "C:\\Users\\vinog\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\u041F\u041C04\\PM04\\PM04Project\\TestBasePM04\\Partner.cs",
+              "RelativeDocumentMoniker": "Partner.cs",
+              "ToolTip": "C:\\Users\\vinog\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\u041F\u041C04\\PM04\\PM04Project\\TestBasePM04\\Partner.cs",
+              "RelativeToolTip": "Partner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T09:26:35.346Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
